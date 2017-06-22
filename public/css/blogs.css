@@ -1,0 +1,8 @@
+.btn-block {
+  width: 150px !important ;
+  margin: 10px 0;
+}
+
+h2.blog-post-title, div.body {
+  word-wrap: break-word;
+}
